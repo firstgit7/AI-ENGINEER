@@ -8,19 +8,20 @@ Based on extensive market research and current opportunities, here's your compre
 - **700+ Artificial Intelligence intern positions** active on LinkedIn[2]
 - **1 qualified engineer for every 10 GenAI roles** - creating unprecedented opportunities[3]
 
-Company,Position,Location,Stipend_USD,Duration,Requirements,Application_Status,Company_Type
-Adobe,AI/ML Intern - Machine Learning Engineer,"San Jose, USA",$55/hr,Summer 2026,"ML/DL concepts, Python, stats",Open,Tech Giant
-Meta,Research Scientist Intern - Generative AI,"Menlo Park, CA",$50/hr,Variable,"PhD level, advanced research",Open,Tech Giant
-NVIDIA,Deep Learning Computer Architecture Intern,"Santa Clara, CA",$62/hr,2026 Program,"Computer Architecture, DL",Open,Tech Giant
-Google,Data Scientist Research Intern - PhD,"Mountain View, CA",$46/hr,Summer 2026,"PhD, Data Science background",Open,Tech Giant
-Accenture,Summer Internship - Technology,Multiple Locations,Competitive,May-August 2025,"Bachelor degree, basic tech skills",Open,Consulting
-TCS,TCS Internship Program,India,₹10-15k/month,6-18 weeks,"B.E/B.Tech, programming",Open,IT Services
-IBM,IBM Internships,Multiple Countries,Competitive,Variable,Degree alignment with role,Open,Tech Giant
-DataTeach.AI,ML/Agentic AI Engineering Intern,Hyderabad (Remote),"₹8,000/month",Minimum 3 months,"Python, PyTorch, LLMs, HuggingFace",Open,AI Startup
-Techolution,Generative AI Intern,Hyderabad,Competitive,6 months,"Deep learning, cloud computing",Open,Tech Company
-GroundTruth,AI Fellowship/Internship,Remote,Competitive,Variable,Consumer behavior analysis,Open,Ad Tech
-ZentalX AI,AI Intern/Research Intern,Remote,Competitive,Variable,"AI tools, automation",Open,AI Startup
-Pinterest,Machine Learning Internship,"San Francisco, CA",$52/hr,2026 Program,"ML fundamentals, Python",Open,Tech Giant
+| Company       | Position                                      | Location              | Stipend_USD     | Duration         | Requirements                              | Application_Status | Company_Type |
+|---------------|-----------------------------------------------|------------------------|------------------|------------------|-------------------------------------------|---------------------|--------------|
+| Adobe         | AI/ML Intern - Machine Learning Engineer      | San Jose, USA          | $55/hr           | Summer 2026      | ML/DL concepts, Python, stats             | Open                | Tech Giant   |
+| Meta          | Research Scientist Intern - Generative AI     | Menlo Park, CA         | $50/hr           | Variable         | PhD level, advanced research              | Open                | Tech Giant   |
+| NVIDIA        | Deep Learning Computer Architecture Intern    | Santa Clara, CA        | $62/hr           | 2026 Program     | Computer Architecture, DL                 | Open                | Tech Giant   |
+| Google        | Data Scientist Research Intern - PhD          | Mountain View, CA      | $46/hr           | Summer 2026      | PhD, Data Science background              | Open                | Tech Giant   |
+| Accenture     | Summer Internship - Technology                | Multiple Locations     | Competitive      | May-August 2025  | Bachelor degree, basic tech skills        | Open                | Consulting   |
+| TCS           | TCS Internship Program                        | India                  | ₹10-15k/month    | 6-18 weeks       | B.E/B.Tech, programming                   | Open                | IT Services  |
+| IBM           | IBM Internships                               | Multiple Countries     | Competitive      | Variable         | Degree alignment with role                | Open                | Tech Giant   |
+| DataTeach.AI  | ML/Agentic AI Engineering Intern              | Hyderabad (Remote)     | ₹8,000/month     | Minimum 3 months | Python, PyTorch, LLMs, HuggingFace        | Open                | AI Startup   |
+| Techolution   | Generative AI Intern                          | Hyderabad              | Competitive      | 6 months         | Deep learning, cloud computing            | Open                | Tech Company |
+| GroundTruth   | AI Fellowship/Internship                      | Remote                 | Competitive      | Variable         | Consumer behavior analysis                | Open                | Ad Tech      |
+| ZentalX AI    | AI Intern/Research Intern                     | Remote                 | Competitive      | Variable         | AI tools, automation                      | Open                | AI Startup   |
+| Pinterest     | Machine Learning Internship                   | San Francisco, CA      | $52/hr           | 2026 Program     | ML fundamentals, Python                   | Open                | Tech Giant   |
 
 
 ## 🎯 Strategic Application Approach
@@ -48,6 +49,25 @@ The most successful platforms for securing AI/ML internships:
 
 ## 📋 Essential Requirements & Skills
 ### Technical Skills Priority
+
+| Skill_Category   | Specific_Skill           | Importance_Level | Percentage_Jobs_Requiring |
+|------------------|--------------------------|------------------|----------------------------|
+| Programming      | Python                   | Essential        | 95                         |
+| Programming      | R                        | Important        | 60                         |
+| Programming      | SQL                      | Important        | 70                         |
+| ML/AI            | Machine Learning Fundamentals | Essential    | 100                        |
+| ML/AI            | Deep Learning            | Essential        | 90                         |
+| ML/AI            | NLP/LLMs                 | High Demand      | 80                         |
+| ML/AI            | Computer Vision          | High Demand      | 70                         |
+| Tools/Frameworks | TensorFlow/PyTorch       | Essential        | 85                         |
+| Tools/Frameworks | HuggingFace              | High Demand      | 75                         |
+| Tools/Frameworks | Git/GitHub               | Essential        | 90                         |
+| Tools/Frameworks | Cloud Platforms          | Important        | 65                         |
+| Soft Skills      | Communication            | Essential        | 100                        |
+| Soft Skills      | Problem Solving          | Essential        | 100                        |
+| Soft Skills      | Teamwork                 | Important        | 85                         |
+
+
 **Must-Have Skills (95%+ job requirements):**
 - **Python programming** - Data structures, algorithms, OOP
 - **Machine Learning fundamentals** - Supervised/unsupervised learning
@@ -61,6 +81,19 @@ The most successful platforms for securing AI/ML internships:
 
 ## ⏰ Application Timeline Strategy
 ### 6-Month Preparation Roadmap
+
+| Timeline            | Action_Items                               | Key_Focus                  |
+|---------------------|--------------------------------------------|----------------------------|
+| 6 months before     | Skill building, projects, GitHub setup     | Technical foundations      |
+| 4-5 months before   | Resume building, portfolio creation        | Professional presentation  |
+| 3 months before     | Company research, networking               | Target identification      |
+| 2 months before     | Application preparation, mock interviews   | Interview readiness        |
+| 1 month before      | Final applications, follow-ups             | Application optimization   |
+| Application period  | Submit applications, tailor resumes        | Volume and quality balance |
+| Interview period    | Technical prep, behavioral practice        | Performance excellence     |
+| Decision period     | Negotiate offers, accept positions         | Decision making            |
+
+
 **Critical Success Factors:**
 - **Start 6 months early** - Build competitive advantage through preparation[6]
 - **Volume approach** - Apply to 50-100 positions for 2-5 offers[11]
