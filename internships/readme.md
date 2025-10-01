@@ -8,6 +8,9 @@ Based on extensive market research and current opportunities, here's your compre
 - **700+ Artificial Intelligence intern positions** active on LinkedIn[2]
 - **1 qualified engineer for every 10 GenAI roles** - creating unprecedented opportunities[3]
 
+- ## top platforms
+  <img src="/images/platforms.png" alt="platforms" />
+
 | Company       | Position                                      | Location              | Stipend_USD     | Duration         | Requirements                              | Application_Status | Company_Type |
 |---------------|-----------------------------------------------|------------------------|------------------|------------------|-------------------------------------------|---------------------|--------------|
 | Adobe         | AI/ML Intern - Machine Learning Engineer      | San Jose, USA          | $55/hr           | Summer 2026      | ML/DL concepts, Python, stats             | Open                | Tech Giant   |
@@ -25,6 +28,10 @@ Based on extensive market research and current opportunities, here's your compre
 
 
 ## 🎯 Strategic Application Approach
+
+
+## Process of applications 
+<img src="/images/process.png" alt="process" />
 ### Top Platforms by Effectiveness
 The most successful platforms for securing AI/ML internships:
 **Key Insights:**
