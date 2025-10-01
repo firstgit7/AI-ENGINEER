@@ -8,6 +8,19 @@ Based on extensive market research and current opportunities, here's your compre
 - **700+ Artificial Intelligence intern positions** active on LinkedIn[2]
 - **1 qualified engineer for every 10 GenAI roles** - creating unprecedented opportunities[3]
 
+Company,Position,Location,Stipend_USD,Duration,Requirements,Application_Status,Company_Type
+Adobe,AI/ML Intern - Machine Learning Engineer,"San Jose, USA",$55/hr,Summer 2026,"ML/DL concepts, Python, stats",Open,Tech Giant
+Meta,Research Scientist Intern - Generative AI,"Menlo Park, CA",$50/hr,Variable,"PhD level, advanced research",Open,Tech Giant
+NVIDIA,Deep Learning Computer Architecture Intern,"Santa Clara, CA",$62/hr,2026 Program,"Computer Architecture, DL",Open,Tech Giant
+Google,Data Scientist Research Intern - PhD,"Mountain View, CA",$46/hr,Summer 2026,"PhD, Data Science background",Open,Tech Giant
+Accenture,Summer Internship - Technology,Multiple Locations,Competitive,May-August 2025,"Bachelor degree, basic tech skills",Open,Consulting
+TCS,TCS Internship Program,India,₹10-15k/month,6-18 weeks,"B.E/B.Tech, programming",Open,IT Services
+IBM,IBM Internships,Multiple Countries,Competitive,Variable,Degree alignment with role,Open,Tech Giant
+DataTeach.AI,ML/Agentic AI Engineering Intern,Hyderabad (Remote),"₹8,000/month",Minimum 3 months,"Python, PyTorch, LLMs, HuggingFace",Open,AI Startup
+Techolution,Generative AI Intern,Hyderabad,Competitive,6 months,"Deep learning, cloud computing",Open,Tech Company
+GroundTruth,AI Fellowship/Internship,Remote,Competitive,Variable,Consumer behavior analysis,Open,Ad Tech
+ZentalX AI,AI Intern/Research Intern,Remote,Competitive,Variable,"AI tools, automation",Open,AI Startup
+Pinterest,Machine Learning Internship,"San Francisco, CA",$52/hr,2026 Program,"ML fundamentals, Python",Open,Tech Giant
 
 
 ## 🎯 Strategic Application Approach
