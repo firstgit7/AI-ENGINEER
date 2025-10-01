@@ -21,7 +21,7 @@ This comprehensive guide provides a detailed roadmap to transition into one of t
 - Senior GenAI Engineers: **₹30-60+ LPA**
 - Specialized roles (GenAI Engineering, MLOps): **₹58-60 LPA**
 - Global remote opportunities: **₹1-2 lakhs per month** (freelancing)
-
+<img src="/images/salary.png" alt="salary" />
 ## 🎯 6-Month Roadmap Overview
 
 ### Phase-by-Phase Learning Journey
@@ -34,7 +34,7 @@ This comprehensive guide provides a detailed roadmap to transition into one of t
 | **Month 4** | GenAI Mastery | Fine-tuning, RAG, LangChain | Can build advanced GenAI applications |
 | **Month 5** | Portfolio Building | Real projects, GitHub presence | 3-5 industry-ready projects |
 | **Month 6** | Job Preparation | Interviews, networking, freelancing | Ready for job market entry |
-
+<img src="/images/6month-map.png" alt="6 months roadmap" />
 ## 📚 Detailed Monthly Breakdown
 
 ### Month 1: Foundation + Python & ML Basics
@@ -68,7 +68,7 @@ This comprehensive guide provides a detailed roadmap to transition into one of t
 - Understand neural network architectures
 - Master TensorFlow/Keras and PyTorch
 - Build image classification projects
-
+<img src="/images/skills-roadmap.png" alt="technologies" />
 **Topics & Resources:**
 - **Neural Network Theory:**
   - Perceptrons, activation functions, backpropagation
