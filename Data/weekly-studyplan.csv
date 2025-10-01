@@ -1,0 +1,9 @@
+Week,Phase,Topics,Hours_Per_Day,Outcome
+1,Foundation,"Python basics: data types, functions, loops, OOP",2,Solid Python foundation
+2,Foundation,"NumPy, Pandas, Matplotlib",2,Data wrangling & plotting
+3,Foundation,"Math for ML: Linear Algebra, Probability, Stats",2,Understand ML concepts better
+4,Foundation,"ML intro: Regression, Classification (scikit-learn)",2,First ML models
+5,Foundation,Project: Build a ML model (student marks predictor),2,Complete first project
+6,Deep Learning,"Neural networks: perceptron, activation, loss functions",2,Know how deep learning works
+7,Deep Learning,TensorFlow/Keras basics,2,Can build simple NN
+8,Deep Learning,CNNs for image data,2,Image classification project
