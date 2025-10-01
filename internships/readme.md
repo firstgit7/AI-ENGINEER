@@ -9,7 +9,7 @@ Based on extensive market research and current opportunities, here's your compre
 - **1 qualified engineer for every 10 GenAI roles** - creating unprecedented opportunities[3]
 
 - ## top platforms
-  <img src="internships/images/platforms.png" alt="platforms" />
+  <img src="/internships/images/platforms.png" alt="platforms" />
 
 | Company       | Position                                      | Location              | Stipend_USD     | Duration         | Requirements                              | Application_Status | Company_Type |
 |---------------|-----------------------------------------------|------------------------|------------------|------------------|-------------------------------------------|---------------------|--------------|
@@ -31,7 +31,7 @@ Based on extensive market research and current opportunities, here's your compre
 
 
 ## Process of applications 
-<img src="internships/images/process.png" alt="process" />
+<img src="/internships/images/process.png" alt="process" />
 ### Top Platforms by Effectiveness
 The most successful platforms for securing AI/ML internships:
 **Key Insights:**
