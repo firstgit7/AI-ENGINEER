@@ -1,25 +1,25 @@
-Category	Tool/Framework	Importance	Learn_Month
-Programming	Python	Essential	Month 1
-Programming	Git	Essential	Month 1
-Programming	Jupyter	Essential	Month 1
-Programming	VS Code	Recommended	Month 1
-ML/DL	scikit-learn	Essential	Month 1-2
-ML/DL	TensorFlow	Essential	Month 2
-ML/DL	PyTorch	Essential	Month 2
-ML/DL	Keras	Recommended	Month 2
-NLP & LLMs	HuggingFace Transformers	Essential	Month 3-4
-NLP & LLMs	LangChain	Essential	Month 4
-NLP & LLMs	OpenAI API	Essential	Month 4
-NLP & LLMs	Anthropic Claude API	Recommended	Month 4
-Vector DB	FAISS	Important	Month 4
-Vector DB	Pinecone	Important	Month 4
-Deployment	Flask	Important	Month 5
-Deployment	FastAPI	Essential	Month 5
-Deployment	Docker	Essential	Month 5
-Deployment	Streamlit	Essential	Month 5
-Deployment	Gradio	Recommended	Month 5
-Data	Pandas	Essential	Month 1
-Data	NumPy	Essential	Month 1
-Data	SQL	Important	Month 2
-MLOps	MLflow	Recommended	Month 6
-MLOps	Weights & Biases	Recommended	Month 6
+Category,Tool/Framework,Importance,Learn_Month
+Programming,Python,Essential,Month 1
+Programming,Git,Essential,Month 1
+Programming,Jupyter,Essential,Month 1
+Programming,VS Code,Recommended,Month 1
+ML/DL,scikit-learn,Essential,Month 1-2
+ML/DL,TensorFlow,Essential,Month 2
+ML/DL,PyTorch,Essential,Month 2
+ML/DL,Keras,Recommended,Month 2
+NLP & LLMs,HuggingFace Transformers,Essential,Month 3-4
+NLP & LLMs,LangChain,Essential,Month 4
+NLP & LLMs,OpenAI API,Essential,Month 4
+NLP & LLMs,Anthropic Claude API,Recommended,Month 4
+Vector DB,FAISS,Important,Month 4
+Vector DB,Pinecone,Important,Month 4
+Deployment,Flask,Important,Month 5
+Deployment,FastAPI,Essential,Month 5
+Deployment,Docker,Essential,Month 5
+Deployment,Streamlit,Essential,Month 5
+Deployment,Gradio,Recommended,Month 5
+Data,Pandas,Essential,Month 1
+Data,NumPy,Essential,Month 1
+Data,SQL,Important,Month 2
+MLOps,MLflow,Recommended,Month 6
+MLOps,Weights & Biases,Recommended,Month 6
